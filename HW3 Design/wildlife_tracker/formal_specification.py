@@ -1,6 +1,5 @@
 from typing import Any, List, Optional
 
-
 age: Optional[int] = None
 animal_id: int
 animals: dict[int, Animal] = {}
